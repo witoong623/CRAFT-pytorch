@@ -21,8 +21,8 @@ PyTorch implementation for CRAFT text detector that effectively detect text area
 ## Getting started
 ### Install dependencies
 #### Requirements
-- PyTorch>=0.4.1
-- torchvision>=0.2.1
+- PyTorch>=2.0
+- torchvision>=0.17
 - opencv-python>=3.4.2
 - check requiremtns.txt
 ```
